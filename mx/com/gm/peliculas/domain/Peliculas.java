@@ -1,7 +1,7 @@
 package mx.com.gm.peliculas.domain;
 
 public class Peliculas{     //  tabla de peliculas
-    private String nombre;
+    private String nombre; //variable de tipo string
 
     //public Peliculas(){
 
